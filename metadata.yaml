@@ -1,0 +1,35 @@
+_repo: Nain-puhui-Zarathustra-Kirja-kaikille-eika-kenellekaan_53397
+_version: 0.0.1
+alternative_title: Also sprach Zarathustra. Finnish
+contributor:
+  translator:
+    agent_name: Kouta, Aarni
+    alias: Candolin, Arnold
+    birthdate: 1884
+    deathdate: 1924
+    gutenberg_agent_id: '7932'
+    url: http://www.gutenberg.org/2009/agents/7932
+creator:
+  author:
+    agent_name: Nietzsche, Friedrich Wilhelm
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '779'
+    url: http://www.gutenberg.org/2009/agents/779
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
+description: ''
+gutenberg_issued: '2016-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53397'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Superman (Philosophical concept)'
+- !lcc 'B'
+- !lcsh 'Philosophy, German'
+- GITenberg
+title: 'Näin puhui Zarathustra: Kirja kaikille eikä kenellekään'
+url: http://www.gutenberg.org/ebooks/53397
